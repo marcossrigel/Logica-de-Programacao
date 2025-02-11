@@ -14,7 +14,7 @@ OBS.: Repositório destinado para estudos da linguagem Java.
 
 - Expressões (Aritméticas, Comparativas, Lógicas)
 - Entrada de dados (comando de leitura)
-- Processamento de dados (comando de escrita)
+- Processamento de dados (comando de atribuição)
 - Saída de dados (comando de escrita)
 
  **Estrutura condicional** 
