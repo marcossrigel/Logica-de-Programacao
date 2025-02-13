@@ -14,7 +14,7 @@ OBS.: Repositório destinado para estudos da linguagem Java.
 
 - Expressões (Aritméticas, Comparativas, Lógicas)
 - Entrada de dados (comando de leitura)
-- Processamento de dados (comando de escrita)
+- Processamento de dados (comando de atribuição)
 - Saída de dados (comando de escrita)
 
  **Estrutura condicional** 
@@ -27,5 +27,11 @@ OBS.: Repositório destinado para estudos da linguagem Java.
 - while/for
 - do-while
 
- **Vetores** 
+ **Vetores**                                                                                                                                                                             
  **Marizes** 
+
+link:https://www.udemy.com/certificate/UC-572c3c11-f1c3-4d34-93c6-dcede9f88334/
+
+![UC-572c3c11-f1c3-4d34-93c6-dcede9f88334](https://github.com/user-attachments/assets/cb579fe3-046d-4794-bcc1-c86abc44b522)
+
+ 
