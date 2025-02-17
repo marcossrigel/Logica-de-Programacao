@@ -2,5 +2,5 @@ Fazer um programa para ler um número inteiro positivo N, depois ler N números 
 
 | Entrada                                  | Saída                             |
 | ---------------------------------------- | --------------------------------- |
-| 4<br />10.5<br />4.2<br />-7.2<br />15.0 | 10.5<br />4.2<br />-7.1<br />15.0 |
+| 4<br />10.5<br />4.2<br />-7.1<br />15.0 | 10.5<br />4.2<br />-7.1<br />15.0 |
 
