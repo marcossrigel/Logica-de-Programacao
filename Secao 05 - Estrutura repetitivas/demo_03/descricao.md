@@ -1,16 +1,7 @@
-# Crescente e Decrescente
+Faça um programa para ler um número indeterminado de dados, contendo cada um, a idade de um indivíduo. O último dado, que não entrará nos cálculos, contém um valor de idade negativa. Calcular e imprimir a idade média deste grupo de indivíduos. Se for entrado um valor negativo na primeira vez, mostrar a mensagem "impossivel calcular"
 
-Leia uma quantidade indeterminada de duplas de valores inteiros X e Y. Escreva para cada X e Y uma mensagem que indique se estes valores foram digitados em ordem crescente ou decrescente.
-
-## Entrada
-
-A entrada contém vários casos de teste. Cada caso contém dois valores inteiros X e Y. A leitura deve ser encerrada ao ser fornecido valores iguais para X e Y.
-
-## Saída
-
-Para cada caso de teste imprima “Crescente”, caso os valores tenham sido digitados na ordem crescente, caso contrário imprima a mensagem “Decrescente”.
-
-| Entrada                        | Saída                                       |
-| ------------------------------ | ------------------------------------------- |
-| 5 4<br />7 2<br />3 8<br />2 2 | Decrescente<br />Decrescente<br />Crescente |
+| Entrada                    | Saída               |
+| -------------------------- | ------------------- |
+| 31<br />27<br />46<br />-5 | 34.67               |
+| -10                        | impossivel calcular |
 
