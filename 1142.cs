@@ -4,7 +4,6 @@ using System.Globalization;
 namespace PrimeiroProjeto {
     internal class Program {
         static void Main(string[] args) {
-
             int n = int.Parse(Console.ReadLine());
             int cont = 0;
 
